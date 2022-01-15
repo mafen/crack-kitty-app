@@ -1,0 +1,2 @@
+# CrackKitty-helper-counter
+ 
