@@ -1,0 +1,7 @@
+<resources>
+    <string name="buttonOptions">Options</string>
+    <string name="buttonCounter">I have helped another</string>
+    <string name="app_name">CrackKitty\'s helpings</string>
+    <string name="placeholder">I am placeholder</string>
+    <string name="total_helped">I have helped in total</string>
+</resources>
