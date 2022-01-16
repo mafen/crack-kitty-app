@@ -54,6 +54,10 @@ public class DataItem {
         this.helpedTotal++;
     }
 
+    public void resetTotal(){
+        this.helpedTotal = 0;
+    }
+
     public void setDate(String date) {
         this.date = date;
     }

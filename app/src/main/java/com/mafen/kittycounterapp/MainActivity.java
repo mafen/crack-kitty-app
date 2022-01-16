@@ -31,6 +31,12 @@ public class MainActivity extends AppCompatActivity {
                 dataViewModel.update(dataItem);
 
             });
+
+            binding.buttonReset.setOnClickListener(v -> {
+                dataItem.resetTotal();
+
+                dataViewModel.update(dataItem);
+            });
         });
 
 
